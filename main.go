@@ -37,6 +37,6 @@ func main() {
 		fmt.Println("LOGIN ERROR!!!!!!!!!!!")
 		return
 	}
-  fmt.Println("YOU ARE SUCCESSFULLY LOG :)")
+  fmt.Println("you have successfully logged in :)")
 
 }
